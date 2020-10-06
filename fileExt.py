@@ -17,3 +17,4 @@ else:
    print("'Java'")
   else:
     print(ext.upper())
+    
